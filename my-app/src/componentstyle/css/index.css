@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color:red;
+  background: yellow
+}
+
+
+.btn-default{
+  color:blue;
+  border-color:yellow
+}
+
