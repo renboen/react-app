@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "intl": "^1.2.5",
     "react": "^16.1.1",
     "react-bootstrap": "^0.31.5",
     "react-dom": "^16.1.1",
+    "react-intl": "^2.4.0",
     "react-scripts": "1.0.17"
   },
   "scripts": {
